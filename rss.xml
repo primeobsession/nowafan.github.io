@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Nowa Fan Podcast</title>
+        <link>http://www.nowafan.com</link>
+        <description>Your quick guide to getting game ready! Now you're a fan!</description>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+        <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+        <ttl>1800</ttl>
+
+        <!-- Example episode item -->
+        <item>
+            <title>Episode 1: Super Bowl Kickoff</title>
+            <description>A concise briefing on the top players, game-changing moments, and the background you need for this year's Super Bowl.</description>
+            <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+            <link>http://www.nowafan.com/episodes/episode-1</link>
+            <guid>http://www.nowafan.com/episodes/episode-1</guid>
+        </item>
+        <!-- Add additional episodes as needed -->
+    </channel>
+</rss>
