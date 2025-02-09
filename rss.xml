@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
+        <image>
+            <url>http://www.nowafan.com/images/now-a-fan.png</url>
+            <title>Now (you're) A Fan Podcast - Talk like a fan at the game!</title>
+            <link>http://www.nowafan.com</link>
+        </image>
         <title>Nowa Fan Podcast</title>
         <link>http://www.nowafan.com</link>
         <description>Your quick guide to getting game ready! Now you're a fan!</description>
